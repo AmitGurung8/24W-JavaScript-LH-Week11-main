@@ -1,0 +1,44 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2024,
+    "active": true,
+    "topFlavors": [
+      {
+        "name": "Chocolate Mint",
+        "calories": 200,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Peppermint Sprinkles", "Vanilla Base"],
+        "image": "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main/images/chocolate-mint.svg"
+      },
+      {
+        "name": "Peach Mango",
+        "calories": 250,
+        "type": "milkshake-type ice-cream",
+        "ingredients": ["Peach Syrup", "Mango Chunks", "Vanilla Base"],
+        "image": "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main/images/peach-mango.svg"
+      },
+      {
+        "name": "Strawberry Sprinkle",
+        "calories": 1000,
+        "type": "fruits",
+        "ingredients": ["Strawberry Syrup", "Sprinkles", "Fruits"],
+        "image": "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main/images/strawberry-sprinkle.svg"
+      },
+      {
+        "name": "Amul Mango Masti",
+        "calories": 290,
+        "type": "ice-cream",
+        "ingredients": ["Mango Pulp", "Mango Chunks", "Vanilla Base"],
+        "image": "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main/images/mango.png"
+      },
+      {
+        "name": "Amul Chocolate Almond",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": ["Chocolate Syrup", "Almonds", "Vanilla Base"],
+        "image": "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main/images/choco.png"
+      }
+    ]
+  }
+  
