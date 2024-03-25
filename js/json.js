@@ -7,7 +7,7 @@ async function populate() {
     // Introducing JavaScript Object Notation (JSON): https://json.org/
     // STEP 4a: Create i-scream.json file with companyName, headOffice, established, active, topFlavors(name, calories, type, ingredients, image) */
     // STEP 4b: Store the URL of a JSON file in a variable */
-    const url = "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main//js/i-scream.json";
+    const url = "https://amitgurung8.github.io/24W-JavaScript-LH-Week11/24W-JavaScript-LH-Week11-main/js/i-scream.json";
     const request = new Request(url);
     // STEP 6: Make a network request with the fetch() function, which returns a Response object
     const response = await fetch(request);
