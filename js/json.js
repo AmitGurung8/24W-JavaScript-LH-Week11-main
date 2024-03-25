@@ -77,9 +77,12 @@ function showTopFlavors(jsonData) {
         section.appendChild(article);
     }
 }
+
 // STEP 11: Add a 3rd flavour of ice cream to the local JSON file, making use of the /images/strawberry-sprinkle.svg image
+// already added in i-scream.json file
 
 // Lab: Extend the JavaScript application built in class to include two more flavors of ice cream.
+// in i-scream.json
 
 // This page inspired by and adapted from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
